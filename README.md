@@ -1,2 +1,2 @@
 Practice only
-Folling the Carpentry lesson on Version Control
+Following the Carpentry lesson on Version Control
